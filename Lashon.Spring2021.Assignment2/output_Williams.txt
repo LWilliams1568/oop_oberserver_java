@@ -1,0 +1,3 @@
+Current price: 100
+Current price: 50
+Current price:28
